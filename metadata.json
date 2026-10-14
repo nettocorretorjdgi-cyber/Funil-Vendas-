@@ -1,0 +1,6 @@
+{
+  "name": "FunilPro - Automação & Funil de Vendas",
+  "description": "Sistema completo de captação, nutrição de leads, conversão de ofertas e fidelização pós-venda integrado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
